@@ -1,0 +1,5 @@
+.idea
+.vscode
+src/py/test.py
+src/py/tete.py
+src/py/modules/__pycache__

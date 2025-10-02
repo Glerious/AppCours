@@ -1,0 +1,17 @@
+{
+    "window" : {
+        "width" : 600,
+        "height" : 500,
+        "name" : "AppCours"
+    },
+    "course" : {
+        "frame" : {
+            "background" : "beige"
+        },
+        "statut" : {
+            "0" : "Pas à jour",
+            "1" : "À jour"
+        }
+    }
+    
+}
